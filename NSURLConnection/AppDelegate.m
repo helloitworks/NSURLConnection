@@ -125,7 +125,7 @@
     
 }
 
-#pragma mark - delegate
+#pragma mark - connection delegate
 
 //响应的时候触发
 - (void)connection:(NSURLConnection *)connection didReceiveResponse:(NSURLResponse *)response
